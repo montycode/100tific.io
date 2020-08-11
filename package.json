@@ -1,0 +1,32 @@
+{
+  "name": "100tific.io",
+  "version": "1.0.0",
+  "description": "Single Page Aplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imremain/100tific.io.git"
+  },
+  "keywords": [
+    "Single",
+    "Page",
+    "Aplication"
+  ],
+  "author": "Omar Montoya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imremain/100tific.io/issues"
+  },
+  "homepage": "https://github.com/imremain/100tific.io#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
